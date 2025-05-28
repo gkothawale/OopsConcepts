@@ -6,17 +6,17 @@ namespace OopsConcepts.Classes
     {
         public void Drive()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Driving");
         }
 
         public void FuelUp()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Fueling");
         }
 
         public void GetTyrePressure()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Giving Tyre Pressure");
         }
     }
 }
